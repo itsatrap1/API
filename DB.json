@@ -1,0 +1,13 @@
+[
+
+  {
+    "id":1,
+    "name": "Gigi",
+    "town": "Talea",
+    "hobbies": {
+        "day": "party",
+        "night": "study"
+     }
+  }
+
+]
